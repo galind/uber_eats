@@ -1,1 +1,1 @@
-# uber_eats
+# Get updates from your favorite Uber Eats restaurants
